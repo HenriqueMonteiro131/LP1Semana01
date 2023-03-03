@@ -12,6 +12,9 @@ namespace TiposVarios
             int Peach = 3;
             int Grape = 12;
             char newLine = '\u2708';
+            bool condition = true;
+            bool condition2 = 9>2;
+
             
             {
                 Console.WriteLine(Banana);
@@ -20,6 +23,8 @@ namespace TiposVarios
                 Console.WriteLine(Peach);
                 Console.WriteLine(Grape);
                 Console.WriteLine(newLine);
+                Console.WriteLine(condition);
+                Console.WriteLine(condition2);
 
             }
                 
